@@ -1,0 +1,27 @@
+{
+  "name": "@dimax-ar/recaptcha",
+  "version": "1.0.0-beta.1",
+  "description": "Simple JS function for ReCaptcha v3",
+  "main": "src/index.js",
+  "module": "src/index.js",
+  "repository": "https://github.com/dimax/recaptcha",
+  "author": "Luciano Graziani <@lgraziani2712>",
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+    "outdated": "yarn outdated"
+  },
+  "keywords": [
+    "reCAPTCHA",
+    "v3",
+    "verify",
+    "captcha",
+    "client"
+  ],
+  "devDependencies": {
+    "@dimax-ar/eslint-config-dimax": "1.0.2",
+    "eslint": "5.2.0",
+    "jest": "23.4.1",
+    "prettier": "1.13.7"
+  }
+}
